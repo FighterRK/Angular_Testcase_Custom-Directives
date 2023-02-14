@@ -1,0 +1,35 @@
+.navbar-main{
+    background-color: #87CEEB;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+
+
+
+    .title{
+        font-size: 38px;
+        font-weight: 800;
+        color: white;
+        span{
+            font-size: 20px;
+            border-top: 1px solid white;
+            box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+        }
+    }
+    .left{
+        display: flex;
+        align-items: center;
+       .l-title{
+        margin-right: 20px;
+        font-size: 22px;
+        font-weight: 400;
+        color: white;
+        cursor: pointer;
+
+       }
+    }
+}
+
+

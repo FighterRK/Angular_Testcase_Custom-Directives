@@ -1,0 +1,28 @@
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    c
+    
+
+    .content{
+        h1{
+            font-size: 60px;
+            font-weight: 600;
+            width: 260px;
+        }
+    }
+
+
+    img{
+        width: 700px;
+    }
+}
+
+.card-set{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    
+   
+}
